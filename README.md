@@ -1,2 +1,10 @@
 # aOS
- Aadithya's Operating System --0.0
+ Aadithya's Operating System --v1.0.0
+ 
+Currently runs in 32-bit mode on x86 architecture.
+
+It is limited in its functionality. Currently only boots using grub and prints limited information to the raster buffer/screen.
+
+Recommended to run the release image on an emulator such as QEMU although it can be booted on bare metal.
+
+Check out the release for more information.
